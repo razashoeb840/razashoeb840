@@ -1,1 +1,79 @@
 
+<svg width="560" height="330" viewBox="0 0 560 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="100%" stop-color="#8A2BE2"/>
+    </linearGradient>
+    <style>
+      .lbl { font-family: 'Fira Code', monospace; font-size: 14px; fill: #c9d1d9; }
+      .pct { font-family: 'Fira Code', monospace; font-size: 13px; fill: #00F5FF; }
+      .track { fill: #1b1436; }
+    </style>
+  </defs>
+  <rect width="560" height="330" fill="#0d1117" rx="14"/>
+
+  <!-- C++ 85% -->
+  <text x="20" y="34" class="lbl">C++</text>
+  <text x="500" y="34" class="pct">85%</text>
+  <rect x="20" y="42" width="480" height="10" rx="5" class="track"/>
+  <rect x="20" y="42" height="10" rx="5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="408" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- Java 80% -->
+  <text x="20" y="74" class="lbl">Java</text>
+  <text x="500" y="74" class="pct">80%</text>
+  <rect x="20" y="82" width="480" height="10" rx="5" class="track"/>
+  <rect x="20" y="82" height="10" rx="5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="384" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- JavaScript 78% -->
+  <text x="20" y="114" class="lbl">JavaScript</text>
+  <text x="500" y="114" class="pct">78%</text>
+  <rect x="20" y="122" width="480" height="10" rx="5" class="track"/>
+  <rect x="20" y="122" height="10" rx="5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="374" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- Node.js / Express 75% -->
+  <text x="20" y="154" class="lbl">Node.js / Express.js</text>
+  <text x="500" y="154" class="pct">75%</text>
+  <rect x="20" y="162" width="480" height="10" rx="5" class="track"/>
+  <rect x="20" y="162" height="10" rx="5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="360" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- MongoDB 72% -->
+  <text x="20" y="194" class="lbl">MongoDB</text>
+  <text x="500" y="194" class="pct">72%</text>
+  <rect x="20" y="202" width="480" height="10" rx="5" class="track"/>
+  <rect x="20" y="202" height="10" rx="5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="346" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- DSA / Problem Solving 82% -->
+  <text x="20" y="234" class="lbl">DSA / Problem Solving</text>
+  <text x="500" y="234" class="pct">82%</text>
+  <rect x="20" y="242" width="480" height="10" rx="5" class="track"/>
+  <rect x="20" y="242" height="10" rx="5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="394" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- Git / GitHub 88% -->
+  <text x="20" y="274" class="lbl">Git / GitHub</text>
+  <text x="500" y="274" class="pct">88%</text>
+  <rect x="20" y="282" width="480" height="10" rx="5" class="track"/>
+  <rect x="20" y="282" height="10" rx="5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="422" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- SQL / Databases 70% -->
+  <text x="20" y="314" class="lbl">SQL / Databases</text>
+  <text x="500" y="314" class="pct">70%</text>
+  <rect x="20" y="322" width="480" height="10" rx="5" class="track"/>
+  <rect x="20" y="322" height="10" rx="5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="336" dur="1.4s" fill="freeze"/>
+  </rect>
+</svg>
