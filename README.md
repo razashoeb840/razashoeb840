@@ -1,93 +1,106 @@
-# Shoeb-s-portfolio
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-        .container {
-            width: 80%;
-            margin: 20px auto;
-        }
-        h2 {
-            color: #333;
-            border-bottom: 2px solid #4CAF50;
-            padding-bottom: 10px;
-        }
-        .section {
-            margin: 20px 0;
-        }
-        .section ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .section ul li {
-            margin: 10px 0;
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-        a {
-            color: #4CAF50;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>SHOEB RAZA</h1>
-        <p>B.Tech (CSE) Student | First Year</p>
-    </header>
-    <div class="container">
-        <!-- About Section -->
-        <section class="section" id="about">
-            <h2>About Me</h2>
-            <p>Hello! I'm a first-year B.Tech student specializing in Computer Science and Engineering. I am passionate about technology, coding, and constantly learning new things. This portfolio showcases some of my skills and projects as I begin my journey in the tech world.</p>
-        </section>
-        <!-- Skills Section -->
-        <section class="section" id="skills">
-            <h2>Skills</h2>
-            <ul>
-                <li>HTML & CSS Basics</li>
-                <li>Problem Solving and Logical Thinking</li>
-                <li>Basic Python</li>
-            </ul>
-        </section>
-        <!-- Contact Section -->
-        <section class="section" id="contact">
-            <h2>Contact</h2>
-            <p>Feel free to reach out to me:</p>
-            <ul>
-                <li>Email: <a href="mailto:razashoeb840@gmail.com">razashoeb840@gmail.com</a></li>
-                <li>LinkedIn: <a href="https://www.linkedin.com/in/shoeb-raza-46b023322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Shoeb's LinkedIn</a></li>
-            </ul>
-        </section>
-    </div>
-    <footer>
-        <p>&copy; 2024 SHOEB RAZA</p>
-    </footer>
-</body>
-</html>
+<h1 align="center">Hi 👋, I'm Shoeb Raza</h1>
+<h3 align="center">Aspiring Full Stack Web Developer • B.Tech CSE (CGPA: 8.89)</h3>
+
+<p align="center">
+Building scalable web applications • Solving coding problems (LeetCode & CodeChef) • Learning every day 🚀
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💻 **Infosys Virtual Intern** at Infosys Springboard.
+- 🧠 Passionate about **Data Structures & Algorithms** and **System Architecture**.
+- 🚀 Love building real-world web applications like Hospital Management Systems and AI tools.
+- 🌱 Currently learning advanced **Full Stack Web Development**, **OOP**, and **DBMS**.
+- 🎯 Aspiring **Full Stack Web Developer** focused on scalable solutions.
+- 🎓 Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University.
+
+---
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="languages" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular" alt="frontend" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,flask,mysql" alt="backend" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[🏥 MediPulse - Smart Hospital Management](https://deploy-fcr3.onrender.com/1index.html)** | Full-stack platform featuring real-time patient registration, token queue, doctor consultation, digital prescriptions, pharmacy POS, and appointment scheduling with live dashboards. | `Node.js` `Express.js` `MongoDB` `Socket.io` |
+| **[📚 AI Study Suite Pro](https://github.com/razashoeb840/AI_Study_suite)** | AI study platform utilizing Gemini API for PDF-to-interactive content conversion. Includes smart testing, daily revision, interactive flashcards, and AI-powered weak area detection. | `Python` `Flask` `Gemini API` `SQLite` |
+| **[⚡ RapidX - Auto Assignment System](https://github.com/razashoeb840)** | A web-based smart helper system that automatically assigns tasks based on predefined conditions, improving distribution efficiency and minimizing manual effort. | `Web Technologies` `JS` |
+
+> 💎 **[🛡️ FocusGuard Pro (Hackathon)](https://github.com/sushantranjan912/FocusguardPro-hackathon)**
+>
+> A productivity browser extension that blocks distracting websites, monitors browsing activity, and helps users improve productivity through structured focus sessions and an interactive UI.
+>
+> **Tech Stack:** `JavaScript` `HTML` `CSS` `Chrome Extension API`
+
+---
+
+### 📚 Currently Learning
+
+- Advanced Full Stack Web Development
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems & Computer Networks
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=razashoeb840&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razashoeb840&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razashoeb840&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Coding Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/u/razashoeb2358/"><img src="https://img.shields.io/badge/LeetCode-(Rating_1419)-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/razashoeb2358"><img src="https://img.shields.io/badge/CodeChef-(Rating_1432)-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/shoeb.raza2024"><img src="https://img.shields.io/badge/Codeforces-(Rating_772)-blue?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shoeb-raza-46b023322/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/razashoeb840"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:razashoeb840@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=razashoeb840&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+</p>
