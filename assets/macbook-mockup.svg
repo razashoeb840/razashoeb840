@@ -19,7 +19,7 @@
     REPLACE the href below with your actual project screenshot URL
     (e.g. a raw.githubusercontent.com link or an image hosted in /assets)
   -->
-  <image href="https://placehold.co/780x440/0d1117/00F5FF?text=Replace+with+MediPulse+Screenshot"
+  <image href="Screenshot 2026-07-19 140937.png"
          x="60" y="40" width="780" height="440" clip-path="url(#screenClip)" preserveAspectRatio="xMidYMid slice"/>
 
   <!-- webcam dot -->
