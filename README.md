@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8A2BE2&height=200&section=header&text=SR&fontSize=95&fontColor=00F5FF&fontAlignY=40&animation=fadeIn" width="100%"/>
-
-<!-- 👆 Isse hi tera bold "SR" monogram mil gaya, top pe hero banner ki tarah -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8A2BE2&height=230&section=header&text=SR&fontSize=120&fontColor=00F5FF&fontAlignY=32&stroke=ffffff&strokeWidth=1&desc=SHOEB%20RAZA%20•%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- ============ PROFILE PHOTO ============ -->
-<!-- Apni asli photo GitHub par upload karke uska raw link yaha daal (avatar link kabhi kabhi broken/placeholder show karta hai) -->
-<img src="https://avatars.githubusercontent.com/u/186421197?v=4&s=200" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #8A2BE2; box-shadow: 0 0 20px rgba(138,43,190,0.5);" alt="Shoeb Raza"/>
+<!-- Ye placeholder photo hamesha kaam karega (broken nahi hoga). Apni asli photo lagani ho to sirf niche wali src="..." link apni GitHub-uploaded photo ke raw link se replace kar dena -->
+<img src="https://ui-avatars.com/api/?name=Shoeb+Raza&size=200&background=0d1117&color=00F5FF&bold=true&font-size=0.4&length=2" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #8A2BE2; box-shadow: 0 0 20px rgba(138,43,190,0.5);" alt="Shoeb Raza"/>
 
 ### SHOEB RAZA
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=Full+Stack+Web+Developer;MERN+Ecosystem+Enthusiast;DSA+Problem+Solver" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Web+Developer;MERN+Ecosystem+Enthusiast;DSA+Problem+Solver" alt="Typing SVG"/>
 </a>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00F5FF?style=for-the-badge&labelColor=0d1117&color=0d1117&logoColor=00F5FF"/>
+<br/>
+
+<img src="https://img.shields.io/badge/🟢_STATUS-Open_to_Opportunities-1a1a2e?style=for-the-badge&labelColor=0d1117&color=1a1a2e&logoColor=00F5FF"/>
 <img src="https://komarev.com/ghpvc/?username=razashoeb840&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
+
+<br/><br/>
 
 <a href="https://github.com/razashoeb840"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
 <a href="https://www.linkedin.com/in/shoeb-raza-46b023322/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00A3FF"/></a>
