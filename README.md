@@ -4,7 +4,7 @@
 
 <!-- ============ PROFILE PHOTO ============ -->
 <!-- Ye placeholder photo hamesha kaam karega (broken nahi hoga). Apni asli photo lagani ho to sirf niche wali src="..." link apni GitHub-uploaded photo ke raw link se replace kar dena -->
-<img src="https://media.licdn.com/dms/image/v2/D4D35AQGvIY7iFM8zUQ/profile-framedphoto-shrink_800_800/B4DZ911DjgHQAc-/0/1784388270860?e=1785340800&v=beta&t=Gt9YL7SJET5ZboB7B4rb-z2KPxz1kUgirGj3Z4qML3E" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #8A2BE2; box-shadow: 0 0 20px rgba(138,43,190,0.5);" alt="Shoeb Raza"/>
+<img src="[https://media.licdn.com/dms/image/v2/D4D35AQGvIY7iFM8zUQ/profile-framedphoto-shrink_800_800/B4DZ911DjgHQAc-/0/1784388270860?e=1785340800&v=beta&t=Gt9YL7SJET5ZboB7B4rb-z2KPxz1kUgirGj3Z4qML3E](https://assets.leetcode.com/users/8dryYSsadN/avatar_1752767984.png)" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #8A2BE2; box-shadow: 0 0 20px rgba(138,43,190,0.5);" alt="Shoeb Raza"/>
 
 ### SHOEB RAZA
 
