@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=100%"/>
 
-## <img src="https://images.stockcake.com/public/c/c/4/cc4742e5-7e45-480d-b983-888a043215fd_large/code-breaking-animation-stockcake.jpg"> About Me
+## <img src=""> About Me
 
 <table width="100%">
 <tr>
