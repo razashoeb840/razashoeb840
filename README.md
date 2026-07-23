@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8A2BE2&height=230&section=header&text=SR&fontSize=120&fontColor=00F5FF&fontAlignY=32&stroke=ffffff&strokeWidth=1&desc=SHOEB%20RAZA%20•%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- ============ PROFILE PHOTO ============ -->
-<!-- Ye placeholder photo hamesha kaam karega (broken nahi hoga). Apni asli photo lagani ho to sirf niche wali src="..." link apni GitHub-uploaded photo ke raw link se replace kar dena -->
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQGcJWiboIkpwQ/profile-displayphoto-scale_200_200/B4DZ911CxGJAAc-/0/1784388268473?e=1786579200&v=beta&t=7WyBVYM0iFdyh7nAiUb8sbaTMWtb4r0cjdjJs4MdF8Y" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #8A2BE2; box-shadow: 0 0 20px rgba(138,43,190,0.5);" alt="Shoeb Raza"/>
+<!-- Ye placeholder photo hamesha kaam karega (broken nahi hoga, ui-avatars.com se generate hota hai). Apni asli photo lagani ho to sirf niche wali src="..." link apni GitHub-uploaded photo ke raw link se replace kar dena -->
+<img src="https://ui-avatars.com/api/?name=Shoeb+Raza&size=150&background=8A2BE2&color=00F5FF&bold=true&font-size=0.4" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #8A2BE2; box-shadow: 0 0 20px rgba(138,43,190,0.5);" alt="Shoeb Raza"/>
 
 ### SHOEB RAZA
 
@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=100%"/>
 
-## <img src=""> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ba.gif" width="35"> About Me
 
 <table width="100%">
 <tr>
@@ -222,7 +222,7 @@ Lovely Professional University, Jalandhar, India
 <div align="center">
 
 <a href="https://leetcode.com/u/razashoeb2358/">
-<img src="https://leetcode.card.workers.dev/?username=razashoeb2358&theme=dark&font=Fira%20Code" width="90%"/>
+<img src="https://leetcard.jacoblin.cool/razashoeb2358?theme=dark&font=baloo2&extension=heatmap" width="90%"/>
 </a>
 
 | Platform | Problems | Rating | Profile |
@@ -250,6 +250,17 @@ Lovely Professional University, Jalandhar, India
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Ye animation .github/workflows/snake.yml daalne ke baad khud-ba-khud generate hogi (roz auto-update). Neeche di gayi workflow file apne repo me add kar dena. -->
+<img src="https://raw.githubusercontent.com/razashoeb840/razashoeb840/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=100%"/>
 
 ## 🎯 Current Goals (2026)
 
