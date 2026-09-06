@@ -4,7 +4,7 @@
 
 <!-- ============ PROFILE PHOTO ============ -->
 <!-- Ye placeholder photo hamesha kaam karega (broken nahi hoga). Apni asli photo lagani ho to sirf niche wali src="..." link apni GitHub-uploaded photo ke raw link se replace kar dena -->
-<img src="https://lh3.googleusercontent.com/a/ACg8ocLoOCTonnybdVE0Dz4FNRIRblUmmpID3FUlUgtZTwRAZadkfmM=s192-c-mo" style="border-radius: 50%; object-fit: cover; border: 4px solid #8A2BE2; box-shadow: 0 0 20px rgba(138,43,190,0.5);" alt="Shoeb Raza"/>
+<img src="" style="border-radius: 50%; object-fit: cover; border: 4px solid #8A2BE2; box-shadow: 0 0 20px rgba(138,43,190,0.5);" alt="Shoeb Raza"/>
 
 ### SHOEB RAZA
 
