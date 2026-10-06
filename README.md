@@ -1,73 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8A2BE2&height=230&section=header&text=SR&fontSize=120&fontColor=00F5FF&fontAlignY=32&stroke=ffffff&strokeWidth=1&desc=SHOEB%20RAZA%20•%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:040409,35:4a5bff,70:8a2be2,100:00f5ff&height=240&section=header&text=SHOEB%20RAZA&fontSize=72&fontColor=ffffff&fontAlignY=36&stroke=00f5ff&strokeWidth=1&desc=FULL-STACK%20WEB%20DEVELOPER%20%C2%B7%20REAL-TIME%20SYSTEMS%20%C2%B7%20DSA&descAlignY=60&descSize=16&descColor=e5f9ff&animation=fadeIn" width="100%"/>
 
-<!-- ============ PROFILE PHOTO ============ -->
-<!-- Ye placeholder photo hamesha kaam karega (broken nahi hoga). Apni asli photo lagani ho to sirf niche wali src="..." link apni GitHub-uploaded photo ke raw link se replace kar dena -->
-<img src="" style="border-radius: 50%; object-fit: cover; border: 4px solid #8A2BE2; box-shadow: 0 0 20px rgba(138,43,190,0.5);" alt="Shoeb Raza"/>
-
-### SHOEB RAZA
+<img src="assets/model-closeup.png" width="190" alt="Shoeb Raza 3D Model"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Web+Developer;MERN+Ecosystem+Enthusiast;DSA+Problem+Solver" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Web+Developer;React+%C2%B7+Node+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+Socket.io;350%2B+LeetCode+%C2%B7+2%E2%98%85+CodeChef;B.Tech+CSE+%40+LPU+%C2%B7+CGPA+8.94" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🟢_STATUS-Open_to_Opportunities-1a1a2e?style=for-the-badge&labelColor=0d1117&color=1a1a2e&logoColor=00F5FF"/>
-<img src="https://komarev.com/ghpvc/?username=razashoeb840&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
+<img src="https://img.shields.io/badge/%E2%97%8F_STATUS-OPEN_TO_WORK-00f5ff?style=for-the-badge&labelColor=040409"/>
+<img src="https://img.shields.io/badge/OPEN_TO-RELOCATE-4a5bff?style=for-the-badge&labelColor=040409"/>
+<img src="https://komarev.com/ghpvc/?username=razashoeb840&label=PROFILE%20VIEWS&color=8a2be2&style=for-the-badge&labelColor=040409" alt="views"/>
 
 <br/><br/>
 
-<a href="https://github.com/razashoeb840"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
-<a href="https://www.linkedin.com/in/shoeb-raza-46b023322/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00A3FF"/></a>
-<a href="https://leetcode.com/u/razashoeb2358/"><img src="https://img.shields.io/badge/LEETCODE-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://www.codechef.com/users/razashoeb2358"><img src="https://img.shields.io/badge/CODECHEF-0d1117?style=for-the-badge&logo=codechef&logoColor=8A2BE2"/></a>
-<a href="https://codeforces.com/profile/shoeb.raza2024"><img src="https://img.shields.io/badge/CODEFORCES-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>
-<a href="mailto:razashoeb840@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://github.com/razashoeb840"><img src="https://img.shields.io/badge/GITHUB-040409?style=for-the-badge&logo=github&logoColor=00f5ff"/></a>
+<a href="https://www.linkedin.com/in/shoeb-raza/"><img src="https://img.shields.io/badge/LINKEDIN-040409?style=for-the-badge&logo=linkedin&logoColor=4a5bff"/></a>
+<a href="https://leetcode.com/u/razashoeb2358/"><img src="https://img.shields.io/badge/LEETCODE-040409?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://www.codechef.com/users/razashoeb2358"><img src="https://img.shields.io/badge/CODECHEF-040409?style=for-the-badge&logo=codechef&logoColor=8a2be2"/></a>
+<a href="https://codeforces.com/profile/shoeb.raza2024"><img src="https://img.shields.io/badge/CODEFORCES-040409?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>
+<a href="mailto:razashoeb840@gmail.com"><img src="https://img.shields.io/badge/EMAIL-040409?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
-<sub>📍 Jalandhar, India &nbsp;|&nbsp; ✉️ razashoeb840@gmail.com &nbsp;|&nbsp; 🎓 LPU CSE Student</sub>
+<sub>📍 Jalandhar / Phagwara, Punjab, India &nbsp;|&nbsp; ✉️ razashoeb840@gmail.com &nbsp;|&nbsp; 🎓 B.Tech CSE · LPU</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a5bff,50:00f5ff,100:8a2be2&height=3&width=100%"/>
 
-## <img src=""> About Me
+<!-- ================= HERO SNAPSHOT ================= -->
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="62%" valign="top">
 
-```yaml
-whoami:
-  name: "Shoeb Raza"
-  role: "Full Stack Web Developer"
-  location: "Jalandhar, India"
-  education: "B.Tech CSE — Lovely Professional University"
-  cgpa: "8.89 / 10.00"
+### ⚡ `001 // Availability`
+**Open to Work** — actively seeking **Full-Stack Developer** & **SDE Intern / Full-Time** roles.
 
-focus:
-  - Full Stack Development (MERN)
-  - Data Structures & Algorithms
-  - Real-time Systems & WebSockets
-  - System Design
+### 🧬 `002 // Professional Profile`
+**Full-Stack Web Developer** skilled in **React.js, Node.js, Express.js & MongoDB** with hands-on experience building role-based, real-time web applications & live dashboards using **Socket.io**.
 
-philosophy: "Consistency beats motivation. Build products people love."
-```
-
-Computer Science undergraduate passionate about building **scalable, real-time web applications** — clean architecture, sharp problem-solving, and shipping products that create real value.
-
-**Currently:**
-🔥 Mastering **Node.js/Express** &nbsp;·&nbsp; 🎯 Grinding **DSA** &nbsp;·&nbsp; 🌐 Building **production-grade apps** &nbsp;·&nbsp; 📚 Contributing to **open-source**
+### 🏁 `003 // Problem Solving Track`
+**350+ LeetCode Solved** · **2★ CodeChef (Rating 1428)** · **LPU CGPA: 8.94 / 10.0**
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" height="100%">
+<img src="assets/model-full-body.png" width="260" alt="Shoeb Raza — 3D Model"/>
+<br/>
+<sub><code>⊕ 3D MODEL · SHOEB RAZA</code></sub>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/VIEW_PROJECTS_↗-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff&logoColor=040409"/></a>
+<a href="#-resume"><img src="https://img.shields.io/badge/RESUME_⤓-4a5bff?style=for-the-badge&labelColor=040409"/></a>
+<a href="#-get-in-touch"><img src="https://img.shields.io/badge/GET_IN_TOUCH-8a2be2?style=for-the-badge&labelColor=040409"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,100:00f5ff&height=3&width=100%"/>
+
+## 🧑‍💻 01 // About Shoeb Raza
+
+<table width="100%">
+<tr>
+<td width="38%" align="center" valign="top">
+
+<img src="assets/avatar.png" width="230" alt="Shoeb Raza"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/CGPA-8.94_%2F_10.0-8a2be2?style=for-the-badge&labelColor=040409"/>
+
+</td>
+<td width="62%" valign="top">
+
+I'm **SHOEB RAZA**, a Full-Stack Web Developer and Computer Science undergraduate at **Lovely Professional University (CGPA: 8.94 / 10.0)**. I have hands-on experience building role-based, real-time web applications and high-throughput REST APIs.
+
+> *“Currently focused on strengthening my DSA skills, building impactful full-stack projects, and gaining practical experience in modern web development.”*
+
+With proven expertise across **React.js, Node.js, Express.js, MongoDB, Angular, and Socket.io**, I architect modular services with clean business logic and intuitive user experiences. On the algorithmic front, I have solved **350+ problems on LeetCode**, hold a **2-Star rating on CodeChef (1428)**, and regularly participate in competitive programming challenges.
+
+</td>
+</tr>
+</table>
+
+| 🎓 Education | 📍 Location | 🧱 Core Stack | 🏆 Competitive Coding |
+|:---:|:---:|:---:|:---:|
+| **B.Tech CSE @ LPU** <br/> CGPA: 8.94 | **Jalandhar / Phagwara** <br/> Punjab, India | **MERN + Angular** <br/> + Socket.io | **350+ LeetCode** <br/> 2★ CodeChef |
 
 <div align="center">
 
@@ -75,214 +100,361 @@ Computer Science undergraduate passionate about building **scalable, real-time w
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:4a5bff,100:8a2be2&height=3&width=100%"/>
 
-## 🧩 Tech Stack
-
-<div align="center">
-
-**Frontend** &nbsp;
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
-
-**Backend & Real-time** &nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,mongodb&theme=dark"/>
-
-**Languages & Tools** &nbsp;
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,linux&theme=dark"/>
-
-**Databases** &nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
-
-</div>
-
-| Category | Skills |
-|---|---|
-| **Data Structures** | Arrays · Strings · Linked Lists · Stacks · Queues · Hash Maps · Trees · Graphs · DP |
-| **Algorithms** | Two Pointers · Sliding Window · Binary Search · Prefix Sum · Merge Intervals |
-| **Frontend** | React · Tailwind CSS · Responsive Design · Component Architecture |
-| **Backend** | Node.js · Express · REST APIs · Authentication · Middleware |
-| **Databases** | MongoDB · SQL · Schema Design · Optimization |
-| **Real-time** | Socket.io · WebSockets · Live Updates |
-| **Tools** | Git · GitHub · VS Code · Postman · Linux |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=100%"/>
+## 🚀 02 // Featured Projects
 
 <div align="center">
-
-# 🚀 Featured Projects
-<sub>Selected work — architected, built, and deployed end-to-end</sub>
-
+<sub>Production web applications built with real-time architectures, intelligent automation, and role-based workflows.</sub>
 </div>
 
-### 01 · 🏥 MediPulse — Smart Hospital Management
-<img src="https://img.shields.io/badge/STATUS-LIVE-00F5FF?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Feb%202026%20–%20Apr%202026-8A2BE2?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socket.io&logoColor=white"/>
+<br/>
 
-Full-scale hospital management system digitizing operations end-to-end — patient registration, doctor consultations, pharmacy billing, and real-time synchronization across role-based dashboards via WebSockets.
+### 🏛️ JanSetu — Citizen-to-Innovation Platform
+<img src="https://img.shields.io/badge/★_CORE_PROJECT-00f5ff?style=flat-square&labelColor=040409"/> <img src="https://img.shields.io/badge/SEP_2026-8a2be2?style=flat-square&labelColor=040409"/> <img src="https://img.shields.io/badge/React.js-040409?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-040409?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-040409?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Socket.io-040409?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-040409?style=flat-square&logoColor=00f5ff"/>
 
-**🔗 [GitHub](https://github.com/razashoeb840/MediPulse)** &nbsp;|&nbsp; **🌐 [Live Demo](https://deploy-fcr3.onrender.com/1index.html)** *(may take 5-10s to load)*
+Citizen-to-innovation platform connecting citizens, government bodies, universities, and industry partners to report, triage, and solve public infrastructure challenges with evidence-first AI workflows.
 
-- **Patient Management:** Real-time registration, token-based queues, complete history
-- **Doctor Consultation:** Live workflow with digital prescriptions
-- **Role-Based Access:** Doctor / Patient / Reception with secure authentication
-- **Pharmacy POS:** Integrated billing with real-time inventory
-- **Live Sync:** Socket.io-powered instant updates across all dashboards
-- **Notifications & Analytics:** Email/SMS alerts + operational insights dashboard
+- **Evidence-first reporting engine** with AI image analysis, voice input, GPS geotagging & offline synchronization.
+- **Automated department routing** & duplicate issue clustering using NLP similarity matching to eliminate backlogs.
+- **Real-time status dashboards** with role-based access for citizens, municipal officers, and institutions with audit trails.
 
-> Solves the coordination crisis in small-to-mid hospitals — unifying three roles on one real-time data layer so every dashboard reflects the source of truth instantly.
+**[🌐 LIVE APP ↗](https://jansetu-h177.onrender.com/)** &nbsp;|&nbsp; **[💻 GITHUB ↗](https://github.com/razashoeb840/JanSetu1)**
 
 <br/>
 
-### 02 · 🤖 AI Study Suite Pro — Intelligent Learning Companion
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00F5FF?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/October%202025-8A2BE2?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini%20API-0d1117?style=flat-square&logo=googlegemini&logoColor=8A2BE2"/> <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=07405E"/>
+### 🏥 MediPulse — Smart Hospital Management Platform
+<img src="https://img.shields.io/badge/★_CORE_PROJECT-00f5ff?style=flat-square&labelColor=040409"/> <img src="https://img.shields.io/badge/APR_2026-8a2be2?style=flat-square&labelColor=040409"/> <img src="https://img.shields.io/badge/HTML5-040409?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-040409?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-040409?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Node.js-040409?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-040409?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-040409?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Socket.io-040409?style=flat-square&logo=socket.io&logoColor=white"/>
 
-AI-powered learning companion that transforms PDFs and study material into interactive, personalized learning experiences using Google's Gemini API.
+Smart hospital management platform that streamlines patient care and hospital operations through role-based workflows, real-time dashboards and automated pharmacy & inventory management.
 
-**🔗 [GitHub](https://github.com/razashoeb840/AI_Study_suite)** &nbsp;|&nbsp; **🚀 [Live App](https://ai-study-suite-alpha.vercel.app)**
+- **Role-based dashboards** for Admin, Doctor, Receptionist & Patient with real-time Socket.io synchronization.
+- **Real-time patient workflows** including token queues, consultations, digital prescriptions and patient records.
+- **Automated pharmacy & operations** with stock tracking, billing, bed/ward management and inventory updates.
 
-- **PDF Intelligence:** Auto-converts study PDFs into structured content
-- **Interactive Flashcards:** AI-generated revision cards with spaced repetition
-- **Voice Chatbot:** Hands-free Q&A grounded in your documents
-- **Smart Testing:** Real-time analytics with weak-area detection
-- **Mind Maps & Focus Mode:** Visual concept mapping + distraction-free study
+**[🌐 LIVE APP ↗](https://deploy-fcr3.onrender.com/1index.html)** *(may take 5–10s to wake up)* &nbsp;|&nbsp; **[💻 GITHUB ↗](https://github.com/razashoeb840/MediPulse)**
 
 <br/>
 
-### 03 · 🎯 RapidX — Smart Task Auto-Assignment System
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-00F5FF?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Feb%202026%20–%20Apr%202026-8A2BE2?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933"/>
+### 🚚 RapidX — Smart Helper Auto-Assignment System
+<img src="https://img.shields.io/badge/★_FEATURED_PROJECT-4a5bff?style=flat-square&labelColor=040409"/> <img src="https://img.shields.io/badge/FEB_2026-8a2be2?style=flat-square&labelColor=040409"/> <img src="https://img.shields.io/badge/React.js-040409?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-040409?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-040409?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-040409?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Rule_Engine-040409?style=flat-square&logoColor=00f5ff"/>
 
-Intelligent task distribution engine that automatically assigns tasks to helpers based on predefined conditions, with real-time monitoring and admin dashboards.
+Smart helper auto-assignment system that allocates service tasks in real-time using a multi-parameter rule engine to optimize availability, proximity and workload.
 
-- **Auto-Assignment:** Condition-based rule engine for smart distribution
-- **Workload Balancing:** Intelligent helper selection algorithm
-- **Real-time Monitoring:** Live visibility into every assignment
-- **Admin Dashboard:** Measurable reduction in manual overhead
+- **Automated dispatch rule engine** dynamically matching task requirements with helper GPS proximity & availability.
+- **Synchronized dual-view dashboards** with instant push notifications, order state machines & task progress tracking.
+- **Resilient REST backend** with indexed MongoDB queries, atomic task allocation locks & role-based authorization.
+
+**[💻 GITHUB REPO ↗](https://github.com/razashoeb840/rapidX)**
 
 <br/>
-
-### 04 · 🚀 FocusGuard Pro — Productivity Browser Extension
-<img src="https://img.shields.io/badge/STATUS-HACKATHON%20BUILD-00F5FF?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/September%202025-8A2BE2?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Chrome%20API-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4"/>
-
-Browser extension built during a hackathon to reclaim focus — blocks distracting websites and tracks productivity metrics in real-time.
-
-**🔗 [GitHub](https://github.com/sushantranjan912/FocusguardPro-hackathon)**
-
-- **Website Blocking:** Smart blocking of user-defined distracting domains
-- **Activity Tracking:** Detailed browsing history and time analytics
-- **Productivity Sessions:** Timed focus periods with break reminders
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
-
-## 🗓️ Journey Timeline
-
-```
-Aug 2024  ━━━━━━ Began B.Tech CSE @ Lovely Professional University
-Sept 2025 ━━━━━━ 🏆 Built FocusGuard Pro (Hackathon Winner)
-Oct 2025  ━━━━━━ 🚀 Launched AI Study Suite Pro
-Feb 2026  ━━━━━━ Started MediPulse & RapidX
-Apr 2026  ━━━━━━ 🎉 Shipped MediPulse & RapidX to Production
-2026+     ━━━━━━ 🎯 Full Stack SDE Internships & Open Source Contributions
-```
-
-## 💼 Professional Experience
-
-**🏢 Infosys Springboard — Virtual Internship** &nbsp;·&nbsp; `Aug 2024 – Present`
-
-Structured virtual internship focused on industry-oriented technical skills. Currently developing **CampusEventHub**, an Angular-based event management platform.
-
-- 🎯 Implementing **Angular Components** with reactive forms
-- 🔄 Building **client-side routing** for multi-view navigation
-- 📡 Developing **services** for API communication
-- ✅ Completing technical assessments and industry modules
-
-## 🎓 Education
 
 <table width="100%">
 <tr>
-<td width="70%">
+<td width="50%" valign="top">
 
-**Bachelor of Technology — Computer Science & Engineering**
-Lovely Professional University, Jalandhar, India
-`August 2024 – Present`
+### 🤖 AI Study Suite Pro
+<img src="https://img.shields.io/badge/★_AI_&_INTELLIGENT_SYSTEMS-00f5ff?style=flat-square&labelColor=040409"/> <img src="https://img.shields.io/badge/OCT_2025-8a2be2?style=flat-square&labelColor=040409"/>
 
-**Relevant Coursework:** Data Structures & Algorithms · Computer Networks · Software Engineering · OOP · DBMS · Operating Systems
+AI-powered academic workspace that transforms lecture PDFs and textbooks into structured learning modules, interactive flashcards, and adaptive diagnostic tests.
+
+- Intelligent **PDF ingestion** → summaries, flashcards & mind maps.
+- **Gemini AI** adaptive testing with knowledge-gap detection & revision schedules.
+- **SQLite** persistence for streaks, test scores & analytics.
+
+`Python` `Flask` `Gemini API` `SQLite` `PDF Processing` `Vercel`
+
+**[🌐 LIVE ↗](https://ai-study-suite-alpha.vercel.app)** · **[💻 GITHUB ↗](https://github.com/razashoeb840/AI_Study_suite)**
 
 </td>
-<td width="30%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/CGPA-8.89%20%2F%2010.00-8A2BE2?style=for-the-badge&labelColor=0d1117"/>
+### 🛡️ FocusGuard Pro
+<img src="https://img.shields.io/badge/★_PRODUCTIVITY_EXTENSION-4a5bff?style=flat-square&labelColor=040409"/> <img src="https://img.shields.io/badge/SEP_2025-8a2be2?style=flat-square&labelColor=040409"/>
+
+Productivity & digital-wellbeing browser extension that protects deep focus by restricting addictive domains and visualizing real-time session habits.
+
+- **Declarative domain filtering** with blocklists, redirects & strict focus timers.
+- **Client-side telemetry dashboard** of productivity ratios & distraction frequency.
+- **Chrome Storage API** + Manifest V3 background service workers.
+
+`JavaScript (ES6+)` `Browser Extension API` `HTML5` `CSS3` `Express.js` `MongoDB`
+
+**[💻 GITHUB REPO ↗](https://github.com/razashoeb840/FocusguardPro-hackathon)**
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=100%"/>
+### 📦 More Open Source Repositories on GitHub
 
-## 🏆 Competitive Programming
+| Repository | Stack |
+|---|---|
+| [`AI_Study_suite`](https://github.com/razashoeb840/AI_Study_suite) | Python / Flask / Gemini API |
+| [`College_event_hub`](https://github.com/razashoeb840/College_event_hub) | Angular / TypeScript |
+| [`infosys_project`](https://github.com/razashoeb840/infosys_project) | Angular / REST APIs |
+| [`Deadlock_Toolkit`](https://github.com/razashoeb840/Deadlock_Toolkit) | Operating Systems / Banker's Algorithm |
+| [`FocusguardPro-hackathon`](https://github.com/razashoeb840/FocusguardPro-hackathon) | Browser Extension / JavaScript |
+| [`NodeJs`](https://github.com/razashoeb840/NodeJs) | Backend / Express / APIs |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,100:4a5bff&height=3&width=100%"/>
+
+## 💼 03 // Work Experience
+
+<div align="center">
+<img src="https://img.shields.io/badge/infosys-SPRINGBOARD-00a3e0?style=for-the-badge&labelColor=040409"/>
+<img src="https://img.shields.io/badge/FEB_2026_–_APR_2026-COMPLETED-00f5ff?style=for-the-badge&labelColor=040409"/>
+</div>
+
+### Full Stack Web Development Intern (Virtual) · Infosys Springboard
+*Jalandhar / Remote*
+
+**🛠 Key Production Project — CampusEventHub (Campus Event Management Platform)**
+Engineered an end-to-end institutional platform for discovering university events, managing multi-category registrations, real-time schedule notifications, and administrative organizer workflows.
+
+| `10+` | `8+` | `100%` |
+|:---:|:---:|:---:|
+| **Angular Components** | **Responsive UI Screens** | **RESTful API Integration** |
+| Modular, reusable UI with reactive forms, custom pipes & client-side routing | Student dashboards, organizer consoles & interactive calendar interfaces | Async data services, secure token auth & synchronized state management |
+
+**Tech:** `Angular` `TypeScript` `RESTful APIs` `Reactive Forms` `RxJS` `JWT Authentication` `HTML5 / CSS3` `Git & GitHub`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:8a2be2&height=3&width=100%"/>
+
+## 🗓️ 04 // My Journey & Milestones
+
+<div align="center">
+<img src="assets/model-views.png" width="92%" alt="Shoeb Raza — Front / Side / Back / Three-Quarter"/>
+<br/>
+<sub><code>FRONT · SIDE · BACK · THREE-QUARTER</code></sub>
+</div>
+
+<br/>
+
+| 🕒 Date | 🏷 Category | 🎯 Milestone |
+|---|---|---|
+| **AUG 2024 – PRESENT** | 🎓 Education | **B.Tech in CSE — Lovely Professional University** · CGPA 8.94 / 10.0 · Focus on DSA, web development and real-world projects. |
+| **MAY 2025** | 🏆 Event | **CodeXtreme 2.0** — LPU university-level coding event. |
+| **AUG 2025** | 📜 Certification | **Oracle Cloud Infrastructure 2025 Certified Generative AI** — hands-on with cloud-based AI services. |
+| **SEP 2025** | 💻 Project | **FocusGuard Pro** — browser extension to block distractions & improve focus. |
+| **SEP 2025** | 📈 DSA Journey | **Embarked on My DSA Journey** — structured practice on LeetCode & CodeChef (arrays, strings, trees, algorithms). |
+| **OCT 2025** | 💻 Project | **AI Study Suite Pro** — PDF to interactive content, smart testing & analytics. |
+| **FEB 2026** | 💻 Project | **RapidX** — automated task assignment by availability, workload & requirements. |
+| **FEB – APR 2026** | 💼 Internship | **Full Stack Development Intern — Infosys Springboard** · CampusEventHub with Angular, routing, services & REST APIs. |
+| **APR 2026** | 💻 Project | **MediPulse** — full-stack hospital platform with real-time ops & role-based access. |
+| **SEP 2026 – PRESENT** | 🟣 Project | **JanSetu** — multi-stakeholder platform connecting citizens, government, universities & industry. |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a5bff,100:00f5ff&height=3&width=100%"/>
+
+## 🏁 05 // DSA & Problem Solving
 
 <div align="center">
 
-<a href="https://leetcode.com/u/razashoeb2358/">
-<img src="https://leetcode.card.workers.dev/?username=razashoeb2358&theme=dark&font=Fira%20Code" width="90%"/>
-</a>
+| Platform | Rating | Solved | Profile |
+|:---:|:---:|:---:|:---:|
+| 🟠 **LeetCode** | **1432** (Contest) | 350+ Problems | [Profile ↗](https://leetcode.com/u/razashoeb2358/) |
+| ⭐ **CodeChef · 2★** | **1428** | 120+ Problems | [Profile ↗](https://www.codechef.com/users/razashoeb2358) |
+| 🔵 **Codeforces** | **772** | Active Contestant | [Profile ↗](https://codeforces.com/profile/shoeb.raza2024) |
 
-| Platform | Problems | Rating | Profile |
-|---|---|---|---|
-| 🟡 **LeetCode** | 200+ | **1419** | [Visit →](https://leetcode.com/u/razashoeb2358/) |
-| 🟡 **CodeChef** | 110+ | **1432** | [Visit →](https://www.codechef.com/users/razashoeb2358) |
-| 🔵 **Codeforces** | 50+ | **772** | [Visit →](https://codeforces.com/profile/shoeb.raza2024) |
+<a href="https://leetcode.com/u/razashoeb2358/">
+<img src="https://leetcode.card.workers.dev/?username=razashoeb2358&theme=dark&font=Fira%20Code" width="80%"/>
+</a>
 
 </div>
 
-## 📊 GitHub Analytics
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🧱 Data Structures `Core Concepts`
+`Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Hash Maps` `Trees`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Algorithmic Patterns `Techniques`
+`Two Pointers` `Sliding Window` `Binary Search` `Prefix Sum` `Merge Intervals` `Recursion` `Greedy Algorithms`
+
+</td>
+</tr>
+</table>
+
+### 🎯 Milestone Bars
+
+| Goal | Progress | Status |
+|---|---|---|
+| LeetCode DSA Problems (Target: 500+) | `███████░░░` 70% | 350+ Solved |
+| Production Full-Stack Implementations | `█████████░` 85% | 6 Platforms |
+| Core CS Fundamentals (OOP, OS, DBMS, Networks) | `█████████░` 89% | CGPA: 8.94 |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,50:4a5bff,100:00f5ff&height=3&width=100%"/>
+
+## 🧩 06 // Technical Stack — What I Build With
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=razashoeb840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%"/>
+**Frontend** &nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razashoeb840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" width="100%"/>
+**Backend & Real-time** &nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio&theme=dark"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=razashoeb840&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF" width="100%"/>
+**Databases** &nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=razashoeb840&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=ffffff" width="100%"/>
+**Languages** &nbsp;
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark"/>
+
+**Tools & Cloud** &nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode&theme=dark"/>
+
+</div>
+
+| Domain | Skills |
+|---|---|
+| 🖥 **Frontend Engineering** | **React.js** · **Next.js** · Angular · **JavaScript (ES6+)** · TypeScript · HTML5 · CSS3 · Tailwind CSS |
+| 🛠 **Backend & Microservices** | **Node.js** · **Express.js** · **RESTful APIs** · JWT Auth · Role-Based Workflows · Middleware Design · API Security |
+| ⚡ **Real-Time & Event Systems** | **Socket.io** · **WebSockets** · Live Token Queues · Real-Time Dashboards · Event-Driven Architecture |
+| 🗄 **Databases & Modeling** | **MongoDB** · Mongoose ODM · **SQL / MySQL** · SQLite · Schema Indexing · Data Aggregations |
+| 💻 **Programming Languages** | **C++** · C · **Java** · Python · **JavaScript (ES6+)** · TypeScript |
+| 📚 **Core CS & Algorithms** | **Data Structures & Algorithms** · OOP · Operating Systems · DBMS · Computer Networks · System Design Basics |
+| 🧰 **Tools & Cloud Deployment** | **Git** · **GitHub** · Linux / Bash · Postman · Vercel · Render · VS Code |
+| 🤝 **Collaboration & Delivery** | **Problem Solving** · Team Collaboration · Adaptability · Clean Code · Rapid Prototyping |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:4a5bff&height=3&width=100%"/>
+
+## 📊 GitHub Contribution & Streak Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=razashoeb840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0e1a&title_color=00f5ff&icon_color=8a2be2&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razashoeb840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0e1a&title_color=00f5ff&text_color=c9d1d9" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=razashoeb840&theme=tokyonight&hide_border=true&background=0d0e1acc&ring=00f5ff&fire=4a5bff&currStreakLabel=00f5ff&sideLabels=abb0d8&dates=8c91be" width="100%"/>
+
+<img src="https://ghchart.rshah.org/22c55e/razashoeb840" width="100%" alt="Contribution Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=razashoeb840&theme=tokyo-night&hide_border=true&bg_color=0d0e1a&color=00f5ff&line=8a2be2&point=ffffff" width="100%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=razashoeb840&theme=darkhub&no-frame=true&row=1&margin-w=15&column=7" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a5bff,100:8a2be2&height=3&width=100%"/>
 
-## 🎯 Current Goals (2026)
+## 🏅 07 // Certifications & Achievements
 
 <div align="center">
-
-| Goal | Progress |
-|---|---|
-| 📈 Solve 500+ DSA Problems | 200+ ✅ |
-| 🎯 Master Full Stack Development | In Progress 🔥 |
-| 🏗️ Build Industry-Level Projects | 4 Projects ✅ |
-| 🌍 Contribute to Open Source | Starting Soon 🚀 |
-| ⭐ Competitive Programming Excellence | Active 💪 |
-| 📚 Keep Learning Every Day | Daily 📖 |
-
+<sub>Recognitions, cloud certifications, and technical milestones validating continuous industry readiness.</sub>
 </div>
 
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00A3FF)](https://www.linkedin.com/in/shoeb-raza-46b023322/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/razashoeb840)
-[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:razashoeb840@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/razashoeb2358/)
-
-**💬 Always open to:** Collaboration on exciting projects · Mentorship & learning · Full Stack discussions · Open source contributions
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer"/>
-
-<div align="center">
-<sub>🚀 Designed & built by <b>Shoeb Raza</b> | Built with ❤️ for the community</sub>
 <br/>
-<sub>Last Updated: July 2026 · Theme: Dark Cyberpunk</sub>
+
+| Issuer | Credential | Details | Date | Link |
+|---|---|---|---|---|
+| **Infosys Springboard** | Full Stack Development Internship Certificate | Industry-oriented training & building CampusEventHub with Angular and REST APIs. | Apr 2026 | [View ↗](https://drive.google.com/file/d/1ZpbLBsJ9zOfbE0NyYWQbz3hAqnNnY_W4/view?usp=sharing) |
+| **LeetCode Milestone** | 350+ Algorithmic Problems Solved | Contest rating 1432 — arrays, strings, trees, hashing, sliding window, two pointers. | Oct 2025 – Present | [View ↗](https://leetcode.com/u/razashoeb2358/) |
+| **CodeChef Contest Rank** | 2-Star Coder (Rating 1428) | Global Division contests with 120+ algorithmic challenges solved. | Sep 2025 – Present | [View ↗](https://www.codechef.com/users/razashoeb2358) |
+| **Oracle Certification** | OCI 2025 Certified Generative AI Professional | LLM architectures, prompt engineering, fine-tuning, RAG & deployment on OCI. | Aug 2025 | [View ↗](https://drive.google.com/file/d/1Lk8CDU-SlbJRo7cvmmLtZ3Z4VSWU5RFH/view?usp=sharing) |
+| **Lovely Professional University** | CodeXtreme 2.0 Certificate | Competitive problem-solving excellence in a university-wide technical challenge. | May 2025 | [View ↗](https://drive.google.com/file/d/1He9_dtJ6TIiqxEiQVuDhSexOCwElW-0C/view) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,100:00f5ff&height=3&width=100%"/>
+
+## 🎨 3D Model Showcase
+
+<div align="center">
+
+<img src="assets/model-sheet-full.png" width="100%" alt="Shoeb Raza — 3D Character Sheet"/>
+
+<table>
+<tr>
+<td align="center"><img src="assets/detail-glasses.png" width="230"/><br/><sub><code>GLASSES DETAIL</code></sub></td>
+<td align="center"><img src="assets/detail-shirt.png" width="230"/><br/><sub><code>SHIRT DETAIL</code></sub></td>
+<td align="center"><img src="assets/detail-watch.png" width="230"/><br/><sub><code>WATCH DETAIL</code></sub></td>
+<td align="center"><img src="assets/detail-shoes.png" width="230"/><br/><sub><code>SHOES DETAIL</code></sub></td>
+</tr>
+</table>
+
+<img src="assets/model-wireframe.png" width="85%" alt="Wireframe"/>
+<br/>
+<sub><code>WIREFRAME</code></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:8a2be2,100:4a5bff&height=3&width=100%"/>
+
+## 📄 Resume
+
+<table width="100%">
+<tr>
+<td width="75%" valign="top">
+
+`OFFICIAL CURRICULUM VITAE · VERIFIED PDF`
+
+### Shoeb Raza — Resume
+Specialised in Full-Stack Web Development, MERN Stack, Real-Time Socket Architecture, REST APIs, and Algorithmic Problem Solving (B.Tech CSE at LPU · CGPA 8.94).
+
+**[👁 View Resume ↗](Shoeb_Raza_Specialised_CV.pdf)** &nbsp;|&nbsp; **[⤓ Download Resume](Shoeb_Raza_Specialised_CV.pdf?raw=true)**
+
+</td>
+<td width="25%" align="center">
+
+<img src="assets/avatar.png" width="130" alt="Shoeb Raza"/>
+
+</td>
+</tr>
+</table>
+
+## 📬 08 // Get In Touch
+
+<div align="center">
+
+### Let's Build Something *Impactful* 🚀
+
+I am actively looking for **Full-Stack Developer**, **Frontend/Backend Engineer**, and **SDE Intern / Full-Time** opportunities.
+Feel free to contact me directly for job openings, project collaborations, or technical discussions!
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+| Channel | Details |
+|---|---|
+| 📧 **Email** | [razashoeb840@gmail.com](mailto:razashoeb840@gmail.com) |
+| 📱 **Phone & WhatsApp** | [+91 8406022747](https://wa.me/918406022747) |
+| 📍 **Location** | Jalandhar / Phagwara, Punjab, India — **Open to Relocate** |
+| 💻 **GitHub** | [@razashoeb840](https://github.com/razashoeb840) |
+| 🔗 **LinkedIn** | [/in/shoeb-raza](https://www.linkedin.com/in/shoeb-raza/) |
+| 🟠 **LeetCode** | [350+ Solved · Rating 1432](https://leetcode.com/u/razashoeb2358/) |
+| ⭐ **CodeChef** | [2★ · Rating 1428](https://www.codechef.com/users/razashoeb2358) |
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="assets/model-full-body.png" width="220" alt="Shoeb Raza"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-040409?style=for-the-badge&logo=linkedin&logoColor=4a5bff)](https://www.linkedin.com/in/shoeb-raza/)
+[![GitHub](https://img.shields.io/badge/GITHUB-040409?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/razashoeb840)
+[![Email](https://img.shields.io/badge/EMAIL-040409?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:razashoeb840@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-040409?style=for-the-badge&logo=whatsapp&logoColor=25d366)](https://wa.me/918406022747)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-040409?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/razashoeb2358/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:8a2be2,100:040409&height=140&section=footer&text=Let's%20Build%20Something%20Impactful&fontSize=24&fontColor=ffffff&fontAlignY=65"/>
+
+<div align="center">
+<img src="assets/avatar.png" width="70" alt="SR"/>
+<br/>
+<sub><i>Consistency beats motivation. Build products people love.</i></sub>
+<br/>
+<sub><code>SHOEB RAZA · FULL-STACK WEB DEVELOPER · LAST UPDATED: OCTOBER 2026</code></sub>
 </div>
