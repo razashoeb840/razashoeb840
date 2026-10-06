@@ -237,7 +237,8 @@ Lovely Professional University, Jalandhar, India
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/razashoeb840/razashoeb840/output/github-snake-dark.svg" width="100%" alt="Contribution Graph"/>
+<!-- <img src="https://raw.githubusercontent.com/razashoeb840/razashoeb840/output/github-snake-dark.svg" width="100%" alt="Contribution Graph"/> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=razashoeb840&bg_color=0d1117&color=39d353&line=39d353&point_color=ffffff&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
 
 <br/>
 
