@@ -236,16 +236,19 @@ Lovely Professional University, Jalandhar, India
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://ghchart.rshah.org/8A2BE2/razashoeb840" width="100%" alt="Contribution Graph"/>
-<img src="https://github-readme-stats.vercel.app/api?username=razashoeb840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razashoeb840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" width="100%"/>
-<img src="https://streak-stats.demolab.com/?user=razashoeb840&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF" width="100%"/>
+<img src="https://raw.githubusercontent.com/razashoeb840/razashoeb840/output/github-snake-dark.svg" width="100%" alt="Contribution Graph"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=razashoeb840&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=ffffff" width="100%"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=razashoeb840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razashoeb840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" width="49%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=razashoeb840&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF" width="70%"/>
 
 </div>
-
 ## 🎯 Current Goals (2026)
 
 <div align="center">
